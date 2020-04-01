@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a5df015-611e-425d-a79c-c78d01e42ea9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="liste nom pays">
+      <created>1585726373532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585726373532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="liste nom pays" />
+    <option name="LAST_COMMIT_MESSAGE" value="liste nom pays" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1510" y="27" width="865" height="873" key="CommitChangelistDialog2" timestamp="1585726546794">
+      <screen x="1440" y="0" width="1600" height="900" />
+    </state>
+    <state x="430" y="53" key="CommitChangelistDialog2/1440.0.1600.900/0.27.1440.873@0.27.1440.873" timestamp="1585681756605" />
+    <state x="1510" y="27" width="865" height="873" key="CommitChangelistDialog2/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585726546794" />
+    <state x="1760" y="125" width="355" height="683" key="RollbackChangesDialog" timestamp="1585579335013">
+      <screen x="1440" y="0" width="1600" height="900" />
+    </state>
+    <state x="1760" y="125" width="355" height="683" key="RollbackChangesDialog/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585579335013" />
+    <state x="1870" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1585726552349">
+      <screen x="1440" y="0" width="1600" height="900" />
+    </state>
+    <state x="1870" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585726552349" />
+  </component>
+</project>
