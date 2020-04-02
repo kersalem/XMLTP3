@@ -1,0 +1,1 @@
+xsltproc partie1.xsl partie1.xml > partie1.html

@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a5df015-611e-425d-a79c-c78d01e42ea9" name="Default Changelist" comment="" />
+    <list default="true" id="1a5df015-611e-425d-a79c-c78d01e42ea9" name="Default Changelist" comment="wip">
+      <change afterPath="$PROJECT_DIR$/readMe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partie1.html" beforeDir="false" afterPath="$PROJECT_DIR$/partie1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partie1.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/partie1.xsl" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZxCrEls5KUUFLUvJaHHmf2853P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -22,26 +43,70 @@
       <option name="project" value="LOCAL" />
       <updated>1585726373532</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nav">
+      <created>1585760345262</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585760345263</updated>
+    </task>
+    <task id="LOCAL-00003" summary="wip">
+      <created>1585761416276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585761416276</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a5df015-611e-425d-a79c-c78d01e42ea9" name="Default Changelist" comment="wip" />
+      <created>1585771558155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585771558155</updated>
+      <workItem from="1585771566976" duration="18000" />
+      <workItem from="1585841098856" duration="842000" />
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="liste nom pays" />
-    <option name="LAST_COMMIT_MESSAGE" value="liste nom pays" />
+    <MESSAGE value="nav" />
+    <MESSAGE value="wip" />
+    <option name="LAST_COMMIT_MESSAGE" value="wip" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1510" y="27" width="865" height="873" key="CommitChangelistDialog2" timestamp="1585726546794">
+    <state x="1979" y="268" width="582" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585841611702">
+      <screen x="1440" y="0" width="1600" height="900" />
+    </state>
+    <state x="1979" y="268" width="582" height="397" key="#com.intellij.fileTypes.FileTypeChooser/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585841611702" />
+    <state x="1928" y="27" width="865" height="873" key="CommitChangelistDialog2" timestamp="1585762600748">
       <screen x="1440" y="0" width="1600" height="900" />
     </state>
     <state x="430" y="53" key="CommitChangelistDialog2/1440.0.1600.900/0.27.1440.873@0.27.1440.873" timestamp="1585681756605" />
-    <state x="1510" y="27" width="865" height="873" key="CommitChangelistDialog2/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585726546794" />
-    <state x="1760" y="125" width="355" height="683" key="RollbackChangesDialog" timestamp="1585579335013">
+    <state x="1928" y="27" width="865" height="873" key="CommitChangelistDialog2/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585762600748" />
+    <state x="1716" y="88" width="1280" height="757" key="DiffContextDialog" timestamp="1585761400492">
       <screen x="1440" y="0" width="1600" height="900" />
     </state>
-    <state x="1760" y="125" width="355" height="683" key="RollbackChangesDialog/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585579335013" />
-    <state x="1870" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1585726552349">
+    <state x="1716" y="88" width="1280" height="757" key="DiffContextDialog/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585761400492" />
+    <state x="1760" y="125" width="355" height="683" key="RollbackChangesDialog" timestamp="1585760121496">
       <screen x="1440" y="0" width="1600" height="900" />
     </state>
-    <state x="1870" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585726552349" />
+    <state x="1760" y="125" width="355" height="683" key="RollbackChangesDialog/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585760121496" />
+    <state x="1870" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1585762528183">
+      <screen x="1440" y="0" width="1600" height="900" />
+    </state>
+    <state x="1870" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585762528183" />
+    <state x="1931" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1585771567045">
+      <screen x="1440" y="0" width="1600" height="900" />
+    </state>
+    <state x="1931" y="291" key="com.intellij.ide.util.TipDialog/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585771567045" />
+    <state x="2043" y="383" width="454" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585762562573">
+      <screen x="1440" y="0" width="1600" height="900" />
+    </state>
+    <state x="2043" y="383" width="454" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1440.0.1600.900/0.27.1440.873@1440.0.1600.900" timestamp="1585762562573" />
   </component>
 </project>
